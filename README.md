@@ -1,6 +1,6 @@
 
-  ### Hi there 👋
-  ![](https://komarev.com/ghpvc/?username=owaisansarii)
+### Hi there 👋
+![](https://komarev.com/ghpvc/?username=owaisansarii)<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owaisansarii&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisansarii&layout=compact)](https://github.com/owaisansarii/github-readme-stats)
 <!--

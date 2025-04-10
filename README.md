@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owaisansarii&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=owaisansarii&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisansarii&layout=compact)](https://github.com/owaisansarii/github-readme-stats)
 <!--
 **owaisansarii/owaisansarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
